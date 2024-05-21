@@ -2,6 +2,8 @@
 
 This is a simple web application for generating and downloading QR codes. Built with React and PrimeReact, it allows users to input text, generate a QR code from the text, and download the generated QR code.
 
+![Capture](https://github.com/Isuru-27/QR-Generator/assets/139687227/98900c5a-e2a2-44ee-9946-212088e5684f)
+
 ## Features
 
 - Generate QR codes from user input
