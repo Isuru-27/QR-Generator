@@ -1,69 +1,70 @@
-# QR Code Generator
+# Getting Started with Create React App
 
-This is a simple web application for generating and downloading QR codes. Built with React and PrimeReact, it allows users to input text, generate a QR code from the text, and download the generated QR code.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Capture](https://github.com/Isuru-27/QR-Generator/assets/139687227/98900c5a-e2a2-44ee-9946-212088e5684f)
+## Available Scripts
 
-## Features
+In the project directory, you can run:
 
-- Generate QR codes from user input
-- Download the generated QR code as an image
+### `npm start`
 
-## Technologies Used
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- React
-- PrimeReact
-- QRCode.js
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Installation
+### `npm test`
 
-To run this project locally, follow these steps:
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-1. **Clone the repository**
+### `npm run build`
 
-   ```sh
-   git clone https://github.com/your-username/qr-code-generator.git
-   cd qr-code-generator
-   ```
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-2. **Install dependencies**
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-   ```sh
-   npm install
-   ```
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-3. **Start the development server**
+### `npm run eject`
 
-   ```sh
-   npm start
-   ```
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-   The application will be available at `http://localhost:3000`.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Usage
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-1. Open the application in your browser.
-2. Enter the text you want to convert into a QR code in the input field.
-3. Click the "Generate QR Code" button.
-4. The generated QR code will be displayed.
-5. Click the "Download" button to save the QR code image to your device.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Contributing
+## Learn More
 
-Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## License
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+### Code Splitting
 
-## Acknowledgments
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-- [PrimeReact](https://www.primefaces.org/primereact/) for UI components
-- [QRCode.js](https://github.com/soldair/node-qrcode) for QR code generation
+### Analyzing the Bundle Size
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-Feel free to customize this `README.md` to suit your project's specifics. Replace `Isuru-27' in the repository URL with your actual GitHub username.
+### Making a Progressive Web App
 
-Happy coding!
-```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
